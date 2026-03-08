@@ -35,8 +35,21 @@
 
 .card {
   padding: 2em;
+  padding: 2em;
+  border: 1px solid whitesmoke;
+  border-radius: 8px;
+  margin-top: 32px;
 }
 
 .read-the-docs {
   color: #888;
+}
+
+.pokemonName {
+  text-transform: capitalize;
+}
+
+img {
+  height: 200px;
+  border-radius: 8px;
 }
